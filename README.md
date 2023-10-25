@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=202101241&hide=issues,stars&show_icons=true&rank_icon=github&theme=codeSTACKr)
+
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=202101241&hide=issues,stars&show_icons=true&rank_icon=github&theme=radical)
 
 [//]: <> (  &hide=stars,commits,prs,issues,contribs  )
 
